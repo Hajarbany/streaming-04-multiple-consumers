@@ -10,7 +10,6 @@ Work Queues - one task producer / many workers sharing work.
 
 
 """
-
 import pika
 import sys
 import webbrowser
