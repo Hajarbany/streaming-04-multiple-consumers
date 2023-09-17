@@ -1,4 +1,6 @@
 # Hajar Banyalmarjeh
+# This project is to get messages from the console and to get messages where the producer will read from a csv file, in this case, the file is called csv. 
+
 # streaming-04-multiple-consumers
 
 > Use RabbitMQ to distribute tasks to multiple workers
