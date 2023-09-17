@@ -58,3 +58,5 @@ Which worker gets which tasks?
 ## Screenshot
 
 See a running example with at least 3 concurrent process windows here:
+<img width="1225" alt="Screenshot 2023-09-15 at 8 07 51 PM" src="https://github.com/Hajarbany/streaming-04-multiple-consumers/assets/97689037/893433fc-e4ca-4eb3-a68f-dead080c090f">
+
