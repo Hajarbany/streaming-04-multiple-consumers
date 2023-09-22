@@ -1,5 +1,5 @@
 # Hajar Banyalmarjeh
-# This project is to get messages from the console and to get messages where the producer will read from a csv file, in this case, the file is called csv. 
+# This project is to learn how to get messages from the console and to get messages where the producer will read from a csv file, in this case, the file is called tasks.csv, we are using rabbitMQ.  
 <img width="1495" alt="Screenshot 2023-09-15 at 8 06 59 PM" src="https://github.com/Hajarbany/streaming-04-multiple-consumers/assets/97689037/309080f1-9a37-4cc5-bd59-9d43ecf805dd">
 
 # streaming-04-multiple-consumers
